@@ -1,7 +1,7 @@
 {
-  "latest_version": "v171",
-  "download_url": "https://github.com/akaligttn-sudo/php-tool-update/releases/download/v171/PHP_TOOL_v171_User_EXE_Online_Login.zip",
-  "sha256": "be17c0614c2c4dc12d4f7a40329aa944d5c6d4fbfd3e7489a94ddff12cc24157",
+  "latest_version": "v173",
+  "download_url": "https://github.com/akaligttn-sudo/php-tool-update/releases/download/v173/PHP_TOOL_v173_User_EXE_UI_API_Merge.zip",
+  "sha256": "e5ed032b87abdc2a379cc05901a82fcec675b3e791f0af7932fcf831605981f6",
   "force_update": true,
   "changelog": [
     "Cập nhật bản mới",

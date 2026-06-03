@@ -1,0 +1,9 @@
+{
+  "latest_version": "v166",
+  "download_url": "https://github.com/akaligttn-sudo/php-tool-update/releases/download/v166/PHP_TOOL_v166_SendToTester_Clean.zip",
+  "force_update": false,
+  "changelog": [
+    "Phiên bản đầu tiên có auto update",
+    "Bản sạch dành cho người dùng thử"
+  ]
+}

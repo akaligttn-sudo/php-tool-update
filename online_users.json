@@ -1,6 +1,6 @@
 {
   "schema": "php_tool_online_users_v171",
-  "updated_at": "2026-06-03T19:12:08.102812Z",
+  "updated_at": "2026-06-03T19:15:40.922130Z",
   "machine_id_admin_exported": "bc10136d25fcb74c",
   "note": "Không chứa mật khẩu plaintext. Chỉ chứa hash/salt để app user xác thực online.",
   "users": [
@@ -10,7 +10,7 @@
       "salt": "d2aecad6733e8083f18804091da26f0d",
       "role": "user",
       "active": 1,
-      "expiry_date": "",
+      "expiry_date": "2026-06-10",
       "allowed_machine_id": "",
       "created_at": "2026-06-04 02:09:23",
       "last_login_at": "",

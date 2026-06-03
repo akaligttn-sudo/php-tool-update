@@ -1,6 +1,6 @@
 {
   "schema": "php_tool_online_users_v171",
-  "updated_at": "2026-06-03T22:26:24.400649Z",
+  "updated_at": "2026-06-03T22:26:31.874305Z",
   "machine_id_admin_exported": "bc10136d25fcb74c",
   "note": "Không chứa mật khẩu plaintext. Chỉ chứa hash/salt để app user xác thực online.",
   "users": [

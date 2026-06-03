@@ -1,8 +1,8 @@
 {
-  "latest_version": "v167",
-  "download_url": "https://github.com/akaligttn-sudo/php-tool-update/releases/download/v167/PHP_TOOL_v167_User_Clean_GitHub_Update_Final%281%29.zip",
-  "sha256": "d2f9487b6e9997207ddcaac913b43da4a7ad233fa19ed4224f654f3367cacdb3",
-  "force_update": true,
+  "latest_version": "v170",
+  "download_url": "https://github.com/akaligttn-sudo/php-tool-update/releases/download/v170/PHP_TOOL_v170_User_Clean_Remember_Login_Final%20%282%29.zip",
+  "sha256": "7276571085a2d142931aba2421e3f50df9009a2152cf5f7d96eb65a6df325e73",
+  "force_update": false,
   "changelog": [
     "Cập nhật bản mới",
     "Sửa lỗi và tối ưu tool"

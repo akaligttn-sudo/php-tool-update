@@ -1,13 +1,13 @@
 {
   "schema": "php_tool_online_users_v171",
-  "updated_at": "2026-06-03T19:09:46.586367Z",
+  "updated_at": "2026-06-03T19:11:56.103145Z",
   "machine_id_admin_exported": "bc10136d25fcb74c",
   "note": "Không chứa mật khẩu plaintext. Chỉ chứa hash/salt để app user xác thực online.",
   "users": [
     {
       "username": "phong123",
-      "password_hash": "01d9b84e866c93a809a0da85c61cb3b05ffd67f67930c8aba66af9d311713a54",
-      "salt": "3cd6bdf7da087aeaa686831200bf05b0",
+      "password_hash": "628e6f7baae323ab92c9120fb681a8f6c5057fdf80c4f000aaaaf64404dc1b0d",
+      "salt": "d2aecad6733e8083f18804091da26f0d",
       "role": "user",
       "active": 1,
       "expiry_date": "",
